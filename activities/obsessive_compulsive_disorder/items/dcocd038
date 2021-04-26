@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcocd038",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "### Symptoms: Compulsions\r\n\r\nWhat did you imagine might happen if you didn't do (insert compulsion)?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

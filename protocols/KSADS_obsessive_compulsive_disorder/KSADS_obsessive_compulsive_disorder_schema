@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS-obsessive_compulsive_disorder/master/protocols/KSADS_obsessive_compulsive_disorder/KSADS_obsessive_compulsive_disorder_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "KSADS_obsessive_compulsive_disorder_schema",
+    "skos:prefLabel": "Obsessive Compulsive Disorder",
+    "schema:description": "Obsessive Compulsive Disorder section for KSADS interview",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/KSADS-obsessive_compulsive_disorder/master/protocols/KSADS_obsessive_compulsive_disorder/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "obsessive_compulsive_disorder",
+                "isAbout": "obsessive_compulsive_disorder",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "obsessive_compulsive_disorder"
+        ],
+        "shuffle": false
+    }
+}

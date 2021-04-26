@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcocd048",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Specify (Physical problem/illness):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

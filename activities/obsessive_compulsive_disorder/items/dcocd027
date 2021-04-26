@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcocd027",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What did you have to do?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}
